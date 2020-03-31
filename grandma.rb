@@ -20,4 +20,4 @@ def speak_to_grandma(phrase)
     puts "HUH?! SPEAK UP, SONNY!"
   end
 end
-speak_to_grandma("ARE YOU CRAZY?")
+speak_to_grandma("ArE YOU CRAZY?")
